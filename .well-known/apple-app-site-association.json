@@ -1,0 +1,24 @@
+{
+    "applinks":{
+        "details":[
+            {
+                "appID":"E55FWA3393.com.fcapps.world360.dev",
+                "paths":[
+                    "*"
+                ]
+            },
+            {
+                "appID":"E55FWA3393.com.fcapps.world360.preview",
+                "paths":[
+                    "*"
+                ]
+            },
+            {
+                "appID":"E55FWA3393.com.fcapps.world360",
+                "paths":[
+                    "*"
+                ]
+            }
+        ]
+    }
+}
